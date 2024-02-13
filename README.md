@@ -24,7 +24,7 @@ In the `dice-roll.py` file, we will write some code to accomplish the following:
 
 In the `multiples.py` file, let's write the following code:
 
-1. Print out the multiples of 3
+1. Print out the multiples of 3 up to 100
 2. Now using the same loop, let’s see if we can print out the multiples of 5 too
 
 ### 4: FizzBuzz
